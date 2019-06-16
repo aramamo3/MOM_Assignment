@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Anand.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MASAPI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://eservices.mas.gov.sg/api/action/datastore/search.json</Value>
+    </Setting>
+    <Setting Name="MASResourceID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5f2b18a8-0883-4769-a635-879c63d3caac</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
